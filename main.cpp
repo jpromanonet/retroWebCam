@@ -3,10 +3,10 @@
 #include <algorithm>
 using namespace std;
 
-#include "olcConsoleGameEngine.h"
+#include "retroConsoleGameEngine.h"
 #include "escapi.h"
 
-class OneLoneCoder_Video : public olcConsoleGameEngine
+class OneLoneCoder_Video : public retroConsoleGameEngine
 {
 public:
 	OneLoneCoder_Video()
